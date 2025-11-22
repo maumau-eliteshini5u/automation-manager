@@ -1,0 +1,2 @@
+# automation-manager
+Python script
